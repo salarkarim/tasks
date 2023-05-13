@@ -1,0 +1,580 @@
+
+.header{
+padding: 10px 100% 10px 0px;
+background-color:hsl(0deg 0% 94.9%);
+
+
+    
+}
+
+.imgali{
+    width: 30px  ;
+    height: 30px;
+    margin-top: 16px;
+    padding-right: 10px;
+}
+
+.h3ali{
+    color:rgb(60, 55, 55);
+    font-size: 20px;
+
+}
+
+.headersetting{
+    display: flex;
+}
+
+
+.h3logo{
+    padding-left: 16%;
+    color:#bdbdbd;
+    font-size: 35px;
+    margin-top: 20px;
+    font-family: monospace;
+    font-family: 'Inconsolata', monospace;
+
+}
+
+.nevbar{
+    display: flex;
+    padding:  10px ;
+}
+
+.firstlog{
+    margin: auto 55vw;
+    font-size: 25px;
+}
+
+.img1{
+    width: 100%;
+    height: 20%;
+}
+
+.aboutcompany{
+    display: flex;
+    color: hsl(215.29deg 9.09% 36.67%);
+    font-family: normal;
+    
+}
+
+.about{
+    text-transform: capitalize;
+    padding-top: 125px;
+    font-size: 20px;
+    padding-bottom: 0px;
+    
+   
+}
+.company{
+    text-transform: capitalize;
+    padding-left: 15px;
+    padding-top: 100px;
+    font-size: 20px;
+    padding-bottom: 0px;
+
+}
+.businessconsulting{
+    text-transform: capitalize;
+    font-size: 80px;
+    margin: 0px;
+    color: hsl(215.29deg 9.09% 36.67%);
+    font-family: sans-serif;
+
+}
+.paragraph1{
+    line-height: 25px;
+    color: hsl(215.29deg 9.09% 36.67%);
+}
+
+
+.ali1{
+  
+      background-image: url(../img/Capture.PNG);
+    width: auto;
+    height: 600px;
+    padding-left: 55%;
+    color: rgb(75, 72, 72);
+  
+}
+
+.firstbutton{
+    font-family: 'Bruno Ace SC', cursive;
+    padding: 6px 55px 6px 55px;
+    text-transform: uppercase;
+    background-color: orangered;
+    color: white;
+    border: none;
+
+    
+}
+.button2{
+    font-family: 'Bruno Ace SC', cursive;
+    padding: 6px 55px 6px 55px;
+    text-transform: uppercase;
+    background-color: orangered;
+    color: white;
+    border: none;
+}
+.button3{
+    font-family: 'Bruno Ace SC', cursive;
+    padding: 6px 55px 6px 55px;
+    text-transform: uppercase;
+    background-color: rgb(32, 30, 29);
+    color: white;
+    border: none;
+
+}
+.sec6butto{
+   font-family: 'Bruno Ace SC', cursive;
+    padding: 6px 55px 6px 55px;
+    text-transform: uppercase;
+    background-color: rgb(32, 30, 29);
+    color: white;
+    border: none;
+    margin-top: 90px;
+    margin-left: 42%;
+    border: 2px solid white;
+
+
+}
+.divmain{
+   
+    background-color:hsl(216deg 10.87% 18.04%);
+    padding-top: 40px;
+    padding-bottom: 80px;
+    color: white;
+
+    
+
+
+}
+.about{
+    margin: 0px;
+
+}
+
+.paragraph2{
+    text-transform: capitalize;
+    font-family:'Arial Narrow Bold';
+    font-size: 30px;
+    width: 28%;
+}
+
+.paragraph3{
+    line-height: 15px;
+    line-height: 24px;
+    width: 28%;
+}
+
+.img_containter{
+    width: 80%;
+    margin: auto;
+    position: relative;
+
+}
+.image {
+    position: absolute;
+    top: 15%;
+    left: 65%;
+    width: 150px;
+    height: 200px;}
+
+    .image2{
+        position: absolute;
+        top: 65%;
+        left: 65%;
+        width: 150px;
+    height: 200px;
+    }
+    .image3 {
+        position: absolute;
+        top: 5px;
+        right: 12px;
+        width: 150px;
+        height: 200px;}
+
+    .image4{
+        position: absolute;
+        top: 50%;
+        bottom: 0px;
+        right: 12px;
+        width: 150px;
+    height: 200px;
+    }
+
+
+    .section3{
+       
+       
+    }
+
+     .section3h1{
+        font-size: 40px;
+        width: 45%;
+        margin: auto;
+        padding-top: 30px;
+        
+
+     }
+
+     .paragraph4{
+        margin: auto;
+        width: 45%;
+        padding-top: 30px;
+        line-height: 25px;
+
+     }
+
+     .span{
+     padding:34%;
+     }
+
+     .i-image-container{
+        position: relative;
+      padding-left: 9%;
+      padding-top: 36px;
+      padding-bottom: 36px;
+
+        
+       
+
+     }
+
+     .i1{
+        width: 30%;
+
+     }
+
+     .i2{
+        width: 30%;
+        
+     }
+
+     .i3{
+        width: 30%;
+        
+     }
+
+     .i4{
+        width: 30%;
+       
+       
+        
+        
+     }
+
+     .i5{
+        width: 30%;
+        
+     }
+
+     .i6{
+        width: 30%;
+        
+     }
+     .section4{
+        background-color:hsl(212, 10%, 68%);
+       width:100%;
+       height:450px ;
+        
+        
+
+     }
+     .sec4maindiv{
+        
+
+     }
+     .sec4div1{
+        font-size: 30px;
+        width: 33%;
+        padding-left:100px ;
+        padding-top:40px ;
+        position: absolute;
+        
+       
+              
+     }
+     .sec4div2{
+        
+        padding-left: 60%;
+        text-transform: capitalize;
+        padding-top: 60px;
+        position: absolute;
+      
+              
+     }
+     .sec4dounlatter{
+        text-transform: capitalize;
+        font-size: 16px;
+     }
+
+     .section5{
+        font-size: ;
+        width: 100%;
+        position: relative;
+        height: 700px;
+     }
+     .sec5h1{
+        text-align: center;
+        font-size:50px ;
+        font-weight: 100;
+        text-transform: capitalize;
+
+     }
+     .sec5dev1{
+        
+        width: 36%;
+        height: 200px;
+        margin-left: 30%;
+        padding-left: 400px;
+        padding-right: 20px;
+        background-color: hsl(216deg 10.87% 18.04%);
+        padding-top: 15px;
+        color: white;
+        font-weight: 100;
+
+     }
+     .sec5sapan{
+        text-decoration: underline;
+     }
+     .sec5h2{
+        text-transform: capitalize;
+     }
+
+     .sec5p1{
+        /* width: 100px; */
+     }
+
+     .sec5imgcontainer{
+        position: relative;
+
+     }
+
+     .sec5img1{ position: absolute;
+        margin-left: 300px;
+        margin-top: -30px;
+       
+
+     }
+     .sec5img2{ position: absolute;
+        margin-left: 800px;
+        margin-top: -19px;
+
+
+
+     }
+     .sec5img3{ position: absolute;
+        margin-left: 500px;
+        margin-top: -90px;
+
+     }
+
+     .section6{
+        background-color: hsl(216deg 10.87% 18.04%);
+        color: white;
+        height: 600px;
+
+     }
+     .section6h1{
+        font-size: 40px;
+        width: 45%;
+        margin: auto;
+        padding-top: 30px;
+        text-align: center;
+        text-transform: capitalize;
+        font-weight: 130;
+
+     }
+     .sec6paragraph1{
+        margin: auto;
+        width: 45%;
+        padding-top: 30px;
+        line-height: 25px;
+
+     }
+     .sec6imgcontainer{
+        display: flex;
+        flex-direction: row;
+
+     }
+     .division6 {
+        display: flex;
+        padding: 10vh 15vw;
+        gap: 30px;
+     }
+    .subsec6 {
+        width: 30%;
+        height: 50vh;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+     }
+     .sec61{
+       background-image: url(../img/2.PNG);
+
+     }
+     .sec62{
+    background-image: url(../img/3.PNG);
+       
+
+     }
+     .sec63{
+    background-image: url(../img/4.PNG);
+   
+
+     }
+     .subsub6 {
+        background-color: white;
+        height: 30vh;
+        width: 90%;
+        margin: 200px 4px 0px 12px;
+        text-align: center;
+        padding: 20px 0px;
+     }  
+     .subsub6 h2 {
+        color: hsl(216deg 10.87% 18.04%);
+        font-size: 25px;
+        font-weight: 100;
+     }
+     .subsub6 span {
+        color: brown;
+
+     }
+     .subsub6 p {
+        color: hsl(220, 7%, 26%);
+     }
+
+     .section6ext{
+      background-color: hsl(216deg 10.87% 18.04%);
+      height: 150px;
+
+     }
+     .section7{
+      background-color:hsl(212, 10%, 68%);
+      padding-bottom: 10%;
+     }
+     .section7h1{
+      font-size: 40px;
+      width: 45%;
+      margin: auto;
+      padding-top: 30px;
+      text-align: center;
+      text-transform: capitalize;
+     
+
+     }
+     .sec7paragraph1{
+      margin: auto;
+      padding-top: 15px;
+      text-align: center;
+        
+
+
+     }
+     .section7div1{
+      background-color: white;
+      margin-top: 100px;
+      margin-left: 200px;
+      margin-right: 200px;
+
+     }
+     .section7p2{
+      color: red;
+      margin-left: 20px;
+      padding-top: 10px;
+
+     }
+     .section7p3{
+      margin-left: 20px;
+      padding-top: 10px;
+
+      
+     }
+    .p{
+      margin-left: 20px;
+    }
+    .section7div2{
+      background-color: white;
+      color:black;
+      margin-top: 20px;
+      margin-left: 200px;
+      margin-right: 200px;
+      padding: 10px 0px 10px 0px;
+    }
+    .lastp{
+      margin-bottom: 30px;
+    }
+    .sect5{
+      background-color: #292d33;
+      display: flex;
+      padding-left: 15%;
+  }
+  .sect5d1{
+      width: 25%;
+      color: white;
+      font-family: sans-serif;
+      padding-top: 10%;
+  }
+  .sect5d1 h2{
+      font-size: 50px;
+      font-weight: lighter;
+      padding-bottom: 30px;
+  }
+  .sect5d1 p{
+      font-size: 17px;
+      font-weight: lighter;
+      padding-bottom: 20px;
+      padding-right: 30px;
+  }
+  .sect5d2{
+      padding-top: 5%;
+      padding-right: 40px;
+      padding-bottom: 5%;
+  }
+  .sect5d3{
+      padding-top: 9%;
+  }
+  .sect5d3 input{
+      padding: 10px 100px 10px 10px;
+      margin-bottom: 20px;
+      font-size: 17px;
+  }
+  .sect5d3 span input{
+      padding: 10px 100px 100px 10px;
+      margin-bottom: 20px;
+      font-size: 17px;
+  }
+  .sect5d3 button{
+      border: 2px solid white;
+      color: white;
+      font-family: sans-serif;
+      padding: 8px 30px;
+      background-color: #292d33;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  .lastd{
+      background-color: #333333;
+      padding-top: 50px;
+      color: white;
+  }
+  .lastd h3{
+      width: 30%;
+      padding-left: 34%;
+      font-size: 16px;
+      font-family: sans-serif;
+      font-weight: lighter;
+      line-height: 20px;
+      text-align: center;
+  }
+  .lastd p{
+      width:30% ;
+      font-family: sans-serif;
+      font-weight: lighter;
+      font-size: 15px;
+      padding-top: 50px;
+      padding-bottom: 35px;
+      padding-left: 37%;
+  
+  }
+  
